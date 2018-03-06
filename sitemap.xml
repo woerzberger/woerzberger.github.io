@@ -1,20 +1,339 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://woerzberger.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/project/ahead/</loc>
+      <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://woerzberger.github.io/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/project/dyproto/</loc>
+      <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://woerzberger.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/post/faq/</loc>
+      <lastmod>2016-04-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/dyproto/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/supportformodeling/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/dissertation/</loc>
+      <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/toolsupport/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/flexiblemultidimensional/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/addingsupport/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/administrationmodels/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/anadaptive/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/dynamicprocess/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/oncorrectness/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/editingsupport/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/workflowsin/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/amanagement/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/evaluatingworkflow/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/workflowsupport/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication/managementsupport/</loc>
+      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication_types/1/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication_types/2/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication_types/5/</loc>
+      <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication_types/6/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/tags/business-processes/</loc>
+      <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/tags/development-processes/</loc>
+      <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/tags/hugo/</loc>
+      <lastmod>2016-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/project/</loc>
+      <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/publication_types/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://woerzberger.github.io/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

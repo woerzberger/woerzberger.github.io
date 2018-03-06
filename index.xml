@@ -1,13 +1,203 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Prof. Dr. rer. nat. René Wörzberger on Prof. Dr. rer. nat. René Wörzberger </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Prof. Dr. René Wörzberger on Prof. Dr. René Wörzberger</title>
     <link>https://woerzberger.github.io/</link>
-    <language>de-de</language>
+    <description>Recent content in Prof. Dr. René Wörzberger on Prof. Dr. René Wörzberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 René Wörzberger</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Adaptable and Human-Centered Environment for the Administration of Development Processes</title>
+      <link>https://woerzberger.github.io/project/ahead/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/project/ahead/</guid>
+      <description></description>
+    </item>
     
-    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    <item>
+      <title>Dynamic Process Management Based Upon Existing Systems</title>
+      <link>https://woerzberger.github.io/project/dyproto/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/project/dyproto/</guid>
+      <description>&lt;p&gt;The subproject T6 of the Transferbereich 61 follows the former subproject B4 of the SFB 476 IMPROVE. The aim of the project T6 is to transfer research results in the area of dynamic process management, which have been found in the preceding project AHEAD, to practise. New research issues will be addressed, that arise through the implementation of the developed concepts in industrial environments. Especially the a-posteriori realization of dynamic process management systems based on existing systems will be a particular challenge.&lt;/p&gt;
+
+&lt;p&gt;For the development of the management system AHEAD an a-priori approach has been followed. The project T6 aims at transferring the research results of the AHEAD project into two different industrial environments. Thereby an a-posteriory approach will be followed. The new functionality will be integrated into existing systems of our industry partners.&lt;/p&gt;
+
+&lt;p&gt;Different types of processes can be distinguished. Business processes subsume all processes happening within an enterprise or organization. In a tighter interpretation they are seen as repeatable activity chains triggered by a customer request and leading to a value for him. Development processes deal with the coordination of developers and cooperating development teams. Since development processes consist of many creative steps, they are highly flexible and evolve continuously. In cooperation with AMB Generali Informatik Services GmbH we focus on business processes whereas by the cooperation with innotec GmbH we address development processes.&lt;/p&gt;
+
+&lt;p&gt;Together with innotec GmbH, we realize a management system for development processes on top of the CAE-tool Comos PT. This system will allow for the holistic management of activities, products and resources. Beyond the transfer of research results from the AHEAD project, new research topics will be addressed. Among other things this will be the integration of time, cost and resource planning, the progress monitoring of development processes, and the integration of our medium-grained representation of tasks with low-level workflows of the Windows Workflow Foundation.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we extend our application experience by also considering dynamic business processes. In cooperation with AMB-Informatik, we build a workflow management system that allows for dynamic changes of workflows at runtime. This new workflow management system is also built on top of an existing one, which strictly separates build time from runtime.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://woerzberger.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://woerzberger.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions (FAQ)</title>
+      <link>https://woerzberger.github.io/post/faq/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://woerzberger.github.io/post/faq/</guid>
+      <description>&lt;p&gt;Common questions and answers will be listed here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Academic is a website &lt;em&gt;framework&lt;/em&gt; rather than just a &lt;em&gt;theme&lt;/em&gt;. Therefore, you must follow the full installation guide found on the Demo/Documentation website or in the Github Readme. If you still have problems, first try running Hugo on the Academic Example Site found in the &lt;code&gt;themes/academic/exampleSite&lt;/code&gt; folder and then compare the configuration parameters in the Example Site&amp;rsquo;s &lt;code&gt;config.toml&lt;/code&gt; and content files with the files in your existing site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hosting your site with Netlify or Cloudflare and experience strange behavior such as filters not working?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Disable post-processing steps such as &lt;em&gt;minification&lt;/em&gt; in your Netlify/Cloudflare admin panel.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications and other content are not sorted by newest first&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hugo/TOML require that the value for the &lt;code&gt;date&lt;/code&gt; field should be in &lt;a href=&#34;https://github.com/toml-lang/toml#local-date-time&#34; target=&#34;_blank&#34;&gt;TOML format&lt;/a&gt;, as per frontmatter of the &lt;code&gt;content/publication/&lt;/code&gt; files in the example site. If you want to use a partial date, such as year, you should still complete a full date to make a valid TOML date format.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Issue parsing LaTeX in publication abstract&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s consider the following LaTeX which fails to parse correctly:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;abstract = &amp;quot;${O(d_{\max})}$&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is a side effect of Academic and Hugo attempting to parse TOML, Markdown and LaTeX content in the abstract. The solution is to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;escape each LaTeX backslash (&lt;code&gt;\&lt;/code&gt;) with an extra backslash, yielding &lt;code&gt;\\&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;escape each LaTeX underscore (&lt;code&gt;_&lt;/code&gt;) with two backslashes, yielding &lt;code&gt;\\_&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hence, editing the above example, we get:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;abstract = &amp;quot;${O(d\\_{\\max})}$&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Cannot achieve line break in multiline equation (LaTeX/Mathjax)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;\\&lt;/code&gt; usually achieves a line break in a multiline LaTeX/Mathjax equation, but due to Hugo&amp;rsquo;s Markdown parser it doesn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;Solution: use 6 backslashes for a line break, for example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$$\begin{eqnarray} 
+y &amp;amp;=&amp;amp; 1+1   \\\\\\
+&amp;amp;=&amp;amp; 2
+\end{eqnarray}$$
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DYPROTO – tools for dynamic business processes</title>
+      <link>https://woerzberger.github.io/publication/dyproto/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/dyproto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support for modeling an monitoring of engineering design processes</title>
+      <link>https://woerzberger.github.io/publication/supportformodeling/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/supportformodeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management dynamischer Geschäftsprozesse auf Basis statischer Prozessmanagementsysteme (Dissertation)</title>
+      <link>https://woerzberger.github.io/publication/dissertation/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool Support for Dynamic Development Processes</title>
+      <link>https://woerzberger.github.io/publication/toolsupport/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/toolsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Multi-Dimensional Visualization of Process Enactment Data</title>
+      <link>https://woerzberger.github.io/publication/flexiblemultidimensional/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/flexiblemultidimensional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adding Support for Dynamics Patterns to Static Business Process Management Systems</title>
+      <link>https://woerzberger.github.io/publication/addingsupport/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/addingsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Administration Models and Management Tools</title>
+      <link>https://woerzberger.github.io/publication/administrationmodels/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/administrationmodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive and Reactive Management System for Project Coordination</title>
+      <link>https://woerzberger.github.io/publication/anadaptive/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/anadaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Process Management Based upon Existing Systems</title>
+      <link>https://woerzberger.github.io/publication/dynamicprocess/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/dynamicprocess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Correctness, Compliance, and Consistency of Process Models</title>
+      <link>https://woerzberger.github.io/publication/oncorrectness/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/oncorrectness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process Model Editing Support Using Eclipse Modeling Project Tools</title>
+      <link>https://woerzberger.github.io/publication/editingsupport/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://woerzberger.github.io/publication/editingsupport/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
