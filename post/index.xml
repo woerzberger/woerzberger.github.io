@@ -10,58 +10,5 @@
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Frequently Asked Questions (FAQ)</title>
-      <link>https://woerzberger.github.io/post/faq/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://woerzberger.github.io/post/faq/</guid>
-      <description>&lt;p&gt;Common questions and answers will be listed here.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Academic is a website &lt;em&gt;framework&lt;/em&gt; rather than just a &lt;em&gt;theme&lt;/em&gt;. Therefore, you must follow the full installation guide found on the Demo/Documentation website or in the Github Readme. If you still have problems, first try running Hugo on the Academic Example Site found in the &lt;code&gt;themes/academic/exampleSite&lt;/code&gt; folder and then compare the configuration parameters in the Example Site&amp;rsquo;s &lt;code&gt;config.toml&lt;/code&gt; and content files with the files in your existing site.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hosting your site with Netlify or Cloudflare and experience strange behavior such as filters not working?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Disable post-processing steps such as &lt;em&gt;minification&lt;/em&gt; in your Netlify/Cloudflare admin panel.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Publications and other content are not sorted by newest first&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Hugo/TOML require that the value for the &lt;code&gt;date&lt;/code&gt; field should be in &lt;a href=&#34;https://github.com/toml-lang/toml#local-date-time&#34; target=&#34;_blank&#34;&gt;TOML format&lt;/a&gt;, as per frontmatter of the &lt;code&gt;content/publication/&lt;/code&gt; files in the example site. If you want to use a partial date, such as year, you should still complete a full date to make a valid TOML date format.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Issue parsing LaTeX in publication abstract&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s consider the following LaTeX which fails to parse correctly:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;abstract = &amp;quot;${O(d_{\max})}$&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This is a side effect of Academic and Hugo attempting to parse TOML, Markdown and LaTeX content in the abstract. The solution is to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;escape each LaTeX backslash (&lt;code&gt;\&lt;/code&gt;) with an extra backslash, yielding &lt;code&gt;\\&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;escape each LaTeX underscore (&lt;code&gt;_&lt;/code&gt;) with two backslashes, yielding &lt;code&gt;\\_&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hence, editing the above example, we get:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;abstract = &amp;quot;${O(d\\_{\\max})}$&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Cannot achieve line break in multiline equation (LaTeX/Mathjax)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;\\&lt;/code&gt; usually achieves a line break in a multiline LaTeX/Mathjax equation, but due to Hugo&amp;rsquo;s Markdown parser it doesn&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;Solution: use 6 backslashes for a line break, for example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$$\begin{eqnarray} 
-y &amp;amp;=&amp;amp; 1+1   \\\\\\
-&amp;amp;=&amp;amp; 2
-\end{eqnarray}$$
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
