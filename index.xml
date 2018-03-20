@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prof. Dr. René Wörzberger on Prof. Dr. René Wörzberger</title>
-    <link>https://woerzberger.github.io/</link>
+    <link>https://rene.woerzberger.de/</link>
     <description>Recent content in Prof. Dr. René Wörzberger on Prof. Dr. René Wörzberger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 René Wörzberger</copyright>
+    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Adaptable and Human-Centered Environment for the Administration of Development Processes</title>
-      <link>https://woerzberger.github.io/project/ahead/</link>
+      <link>https://rene.woerzberger.de/project/ahead/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/project/ahead/</guid>
+      <guid>https://rene.woerzberger.de/project/ahead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Process Management Based Upon Existing Systems</title>
-      <link>https://woerzberger.github.io/project/dyproto/</link>
+      <link>https://rene.woerzberger.de/project/dyproto/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/project/dyproto/</guid>
+      <guid>https://rene.woerzberger.de/project/dyproto/</guid>
       <description>&lt;p&gt;The subproject T6 of the Transferbereich 61 follows the former subproject B4 of the SFB 476 IMPROVE. The aim of the project T6 is to transfer research results in the area of dynamic process management, which have been found in the preceding project AHEAD, to practise. New research issues will be addressed, that arise through the implementation of the developed concepts in industrial environments. Especially the a-posteriori realization of dynamic process management systems based on existing systems will be a particular challenge.&lt;/p&gt;
 
 &lt;p&gt;For the development of the management system AHEAD an a-priori approach has been followed. The project T6 aims at transferring the research results of the AHEAD project into two different industrial environments. Thereby an a-posteriory approach will be followed. The new functionality will be integrated into existing systems of our industry partners.&lt;/p&gt;
@@ -39,119 +39,119 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://woerzberger.github.io/talk/example-talk/</link>
+      <link>https://rene.woerzberger.de/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://woerzberger.github.io/talk/example-talk/</guid>
+      <guid>https://rene.woerzberger.de/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DYPROTO – tools for dynamic business processes</title>
-      <link>https://woerzberger.github.io/publication/dyproto/</link>
+      <link>https://rene.woerzberger.de/publication/dyproto/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/dyproto/</guid>
+      <guid>https://rene.woerzberger.de/publication/dyproto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Support for modeling an monitoring of engineering design processes</title>
-      <link>https://woerzberger.github.io/publication/supportformodeling/</link>
+      <link>https://rene.woerzberger.de/publication/supportformodeling/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/supportformodeling/</guid>
+      <guid>https://rene.woerzberger.de/publication/supportformodeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Management dynamischer Geschäftsprozesse auf Basis statischer Prozess-Managementsysteme (Dissertation)</title>
-      <link>https://woerzberger.github.io/publication/dissertation/</link>
+      <link>https://rene.woerzberger.de/publication/dissertation/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/dissertation/</guid>
+      <guid>https://rene.woerzberger.de/publication/dissertation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tool Support for Dynamic Development Processes</title>
-      <link>https://woerzberger.github.io/publication/toolsupport/</link>
+      <link>https://rene.woerzberger.de/publication/toolsupport/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/toolsupport/</guid>
+      <guid>https://rene.woerzberger.de/publication/toolsupport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible Multi-Dimensional Visualization of Process Enactment Data</title>
-      <link>https://woerzberger.github.io/publication/flexiblemultidimensional/</link>
+      <link>https://rene.woerzberger.de/publication/flexiblemultidimensional/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/flexiblemultidimensional/</guid>
+      <guid>https://rene.woerzberger.de/publication/flexiblemultidimensional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adding Support for Dynamics Patterns to Static Business Process Management Systems</title>
-      <link>https://woerzberger.github.io/publication/addingsupport/</link>
+      <link>https://rene.woerzberger.de/publication/addingsupport/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/addingsupport/</guid>
+      <guid>https://rene.woerzberger.de/publication/addingsupport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Administration Models and Management Tools</title>
-      <link>https://woerzberger.github.io/publication/administrationmodels/</link>
+      <link>https://rene.woerzberger.de/publication/administrationmodels/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/administrationmodels/</guid>
+      <guid>https://rene.woerzberger.de/publication/administrationmodels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptive and Reactive Management System for Project Coordination</title>
-      <link>https://woerzberger.github.io/publication/anadaptive/</link>
+      <link>https://rene.woerzberger.de/publication/anadaptive/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/anadaptive/</guid>
+      <guid>https://rene.woerzberger.de/publication/anadaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Checking Correctness and Compliance of Integrated Process Models</title>
-      <link>https://woerzberger.github.io/publication/checkingcorrectness/</link>
+      <link>https://rene.woerzberger.de/publication/checkingcorrectness/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/checkingcorrectness/</guid>
+      <guid>https://rene.woerzberger.de/publication/checkingcorrectness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Process Management Based upon Existing Systems</title>
-      <link>https://woerzberger.github.io/publication/dynamicprocess/</link>
+      <link>https://rene.woerzberger.de/publication/dynamicprocess/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/dynamicprocess/</guid>
+      <guid>https://rene.woerzberger.de/publication/dynamicprocess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Correctness, Compliance, and Consistency of Process Models</title>
-      <link>https://woerzberger.github.io/publication/oncorrectness/</link>
+      <link>https://rene.woerzberger.de/publication/oncorrectness/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/oncorrectness/</guid>
+      <guid>https://rene.woerzberger.de/publication/oncorrectness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Process Model Editing Support Using Eclipse Modeling Project Tools</title>
-      <link>https://woerzberger.github.io/publication/editingsupport/</link>
+      <link>https://rene.woerzberger.de/publication/editingsupport/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://woerzberger.github.io/publication/editingsupport/</guid>
+      <guid>https://rene.woerzberger.de/publication/editingsupport/</guid>
       <description></description>
     </item>
     
