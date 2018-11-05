@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business processes on Prof. Dr. René Wörzberger</title>
+    <link>https://rene.woerzberger.de/tags/business-processes/</link>
+    <description>Recent content in business processes on Prof. Dr. René Wörzberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
+    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rene.woerzberger.de/tags/business-processes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Process Management Based Upon Existing Systems</title>
+      <link>https://rene.woerzberger.de/project/dyproto/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rene.woerzberger.de/project/dyproto/</guid>
+      <description>The subproject T6 of the Transferbereich 61 follows the former subproject B4 of the SFB 476 IMPROVE. The aim of the project T6 is to transfer research results in the area of dynamic process management, which have been found in the preceding project AHEAD, to practise. New research issues will be addressed, that arise through the implementation of the developed concepts in industrial environments. Especially the a-posteriori realization of dynamic process management systems based on existing systems will be a particular challenge.</description>
+    </item>
+    
+  </channel>
+</rss>
