@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Prof. Dr. René Wörzberger</title>
+    <title>Categories | René Wörzberger</title>
     <link>https://rene.woerzberger.de/categories/</link>
-    <description>Recent content in Categories on Prof. Dr. René Wörzberger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
-    
-	<atom:link href="https://rene.woerzberger.de/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://rene.woerzberger.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://rene.woerzberger.de/categories/</link>
+    </image>
     
   </channel>
 </rss>

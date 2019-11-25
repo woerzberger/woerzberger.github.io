@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Briem | René Wörzberger</title>
+    <link>https://rene.woerzberger.de/authors/christoph-briem/</link>
+      <atom:link href="https://rene.woerzberger.de/authors/christoph-briem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Briem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Christoph Briem</title>
+      <link>https://rene.woerzberger.de/authors/christoph-briem/</link>
+    </image>
+    
+    <item>
+      <title>Workflows in Dynamic Development Processes</title>
+      <link>https://rene.woerzberger.de/publication/workflowsin/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/workflowsin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

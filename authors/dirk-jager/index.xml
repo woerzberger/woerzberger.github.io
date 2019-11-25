@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dirk Jäger | René Wörzberger</title>
+    <link>https://rene.woerzberger.de/authors/dirk-jager/</link>
+      <atom:link href="https://rene.woerzberger.de/authors/dirk-jager/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dirk Jäger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Dirk Jäger</title>
+      <link>https://rene.woerzberger.de/authors/dirk-jager/</link>
+    </image>
+    
+    <item>
+      <title>Administration Models and Management Tools</title>
+      <link>https://rene.woerzberger.de/publication/administrationmodels/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/administrationmodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive and Reactive Management System for Project Coordination</title>
+      <link>https://rene.woerzberger.de/publication/anadaptive/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/anadaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

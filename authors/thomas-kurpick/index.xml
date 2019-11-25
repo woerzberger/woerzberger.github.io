@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Kurpick | René Wörzberger</title>
+    <link>https://rene.woerzberger.de/authors/thomas-kurpick/</link>
+      <atom:link href="https://rene.woerzberger.de/authors/thomas-kurpick/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Kurpick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Thomas Kurpick</title>
+      <link>https://rene.woerzberger.de/authors/thomas-kurpick/</link>
+    </image>
+    
+    <item>
+      <title>Checking Correctness and Compliance of Integrated Process Models</title>
+      <link>https://rene.woerzberger.de/publication/checkingcorrectness/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/checkingcorrectness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Correctness, Compliance, and Consistency of Process Models</title>
+      <link>https://rene.woerzberger.de/publication/oncorrectness/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/oncorrectness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

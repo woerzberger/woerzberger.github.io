@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Prof. Dr. René Wörzberger</title>
+    <title>Posts | René Wörzberger</title>
     <link>https://rene.woerzberger.de/post/</link>
-    <description>Recent content in Posts on Prof. Dr. René Wörzberger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://rene.woerzberger.de/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://rene.woerzberger.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://rene.woerzberger.de/post/</link>
+    </image>
     
   </channel>
 </rss>

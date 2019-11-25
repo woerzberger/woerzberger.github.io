@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ri Hai | René Wörzberger</title>
+    <link>https://rene.woerzberger.de/authors/ri-hai/</link>
+      <atom:link href="https://rene.woerzberger.de/authors/ri-hai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ri Hai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Ri Hai</title>
+      <link>https://rene.woerzberger.de/authors/ri-hai/</link>
+    </image>
+    
+    <item>
+      <title>Workflow Support for Inter-organizational Design Processes</title>
+      <link>https://rene.woerzberger.de/publication/workflowsupport/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/workflowsupport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

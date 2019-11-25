@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prof. Dr. René Wörzberger on Prof. Dr. René Wörzberger</title>
+    <title>René Wörzberger</title>
     <link>https://rene.woerzberger.de/</link>
-    <description>Recent content in Prof. Dr. René Wörzberger on Prof. Dr. René Wörzberger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://rene.woerzberger.de/index.xml" rel="self" type="application/rss+xml" />
+    <description>René Wörzberger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Nov 2018 11:12:40 +0100</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>René Wörzberger</title>
+      <link>https://rene.woerzberger.de/</link>
+    </image>
     
     <item>
       <title>Disclaimers</title>
       <link>https://rene.woerzberger.de/disclaimers/</link>
       <pubDate>Mon, 05 Nov 2018 11:12:40 +0100</pubDate>
-      
       <guid>https://rene.woerzberger.de/disclaimers/</guid>
       <description>
 
@@ -293,7 +294,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Adaptable and Human-Centered Environment for the Administration of Development Processes</title>
       <link>https://rene.woerzberger.de/project/ahead/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/project/ahead/</guid>
       <description></description>
     </item>
@@ -302,7 +302,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Dynamic Process Management Based Upon Existing Systems</title>
       <link>https://rene.woerzberger.de/project/dyproto/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/project/dyproto/</guid>
       <description>&lt;p&gt;The subproject T6 of the Transferbereich 61 follows the former subproject B4 of the SFB 476 IMPROVE. The aim of the project T6 is to transfer research results in the area of dynamic process management, which have been found in the preceding project AHEAD, to practise. New research issues will be addressed, that arise through the implementation of the developed concepts in industrial environments. Especially the a-posteriori realization of dynamic process management systems based on existing systems will be a particular challenge.&lt;/p&gt;
 
@@ -320,7 +319,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Example Talk</title>
       <link>https://rene.woerzberger.de/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://rene.woerzberger.de/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
@@ -330,7 +328,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>DYPROTO – tools for dynamic business processes</title>
       <link>https://rene.woerzberger.de/publication/dyproto/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/dyproto/</guid>
       <description></description>
     </item>
@@ -339,7 +336,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Support for modeling an monitoring of engineering design processes</title>
       <link>https://rene.woerzberger.de/publication/supportformodeling/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/supportformodeling/</guid>
       <description></description>
     </item>
@@ -348,7 +344,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Management dynamischer Geschäftsprozesse auf Basis statischer Prozess-Managementsysteme (Dissertation)</title>
       <link>https://rene.woerzberger.de/publication/dissertation/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/dissertation/</guid>
       <description></description>
     </item>
@@ -357,7 +352,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Tool Support for Dynamic Development Processes</title>
       <link>https://rene.woerzberger.de/publication/toolsupport/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/toolsupport/</guid>
       <description></description>
     </item>
@@ -366,7 +360,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Flexible Multi-Dimensional Visualization of Process Enactment Data</title>
       <link>https://rene.woerzberger.de/publication/flexiblemultidimensional/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/flexiblemultidimensional/</guid>
       <description></description>
     </item>
@@ -375,7 +368,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Adding Support for Dynamics Patterns to Static Business Process Management Systems</title>
       <link>https://rene.woerzberger.de/publication/addingsupport/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/addingsupport/</guid>
       <description></description>
     </item>
@@ -384,7 +376,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Administration Models and Management Tools</title>
       <link>https://rene.woerzberger.de/publication/administrationmodels/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/administrationmodels/</guid>
       <description></description>
     </item>
@@ -393,7 +384,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>An Adaptive and Reactive Management System for Project Coordination</title>
       <link>https://rene.woerzberger.de/publication/anadaptive/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/anadaptive/</guid>
       <description></description>
     </item>
@@ -402,7 +392,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Checking Correctness and Compliance of Integrated Process Models</title>
       <link>https://rene.woerzberger.de/publication/checkingcorrectness/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/checkingcorrectness/</guid>
       <description></description>
     </item>
@@ -411,7 +400,6 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>Dynamic Process Management Based upon Existing Systems</title>
       <link>https://rene.woerzberger.de/publication/dynamicprocess/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/dynamicprocess/</guid>
       <description></description>
     </item>
@@ -420,8 +408,55 @@ III. Informationen zur Datenverarbeitung&lt;/p&gt;
       <title>On Correctness, Compliance, and Consistency of Process Models</title>
       <link>https://rene.woerzberger.de/publication/oncorrectness/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/oncorrectness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process Model Editing Support Using Eclipse Modeling Project Tools</title>
+      <link>https://rene.woerzberger.de/publication/editingsupport/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/editingsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflows in Dynamic Development Processes</title>
+      <link>https://rene.woerzberger.de/publication/workflowsin/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/workflowsin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Management System Supporting Interorganizational Cooperative Development Processes in Chemical Engineering</title>
+      <link>https://rene.woerzberger.de/publication/amanagement/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/amanagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Workflow Definition Language Revisions with Graph-Based Tools</title>
+      <link>https://rene.woerzberger.de/publication/evaluatingworkflow/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/evaluatingworkflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow Support for Inter-organizational Design Processes</title>
+      <link>https://rene.woerzberger.de/publication/workflowsupport/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/workflowsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management Support of Interorganizational Cooperative Software Development Processes based on Dynamic Process Views</title>
+      <link>https://rene.woerzberger.de/publication/managementsupport/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/managementsupport/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Heller | René Wörzberger</title>
+    <link>https://rene.woerzberger.de/authors/markus-heller/</link>
+      <atom:link href="https://rene.woerzberger.de/authors/markus-heller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Heller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Markus Heller</title>
+      <link>https://rene.woerzberger.de/authors/markus-heller/</link>
+    </image>
+    
+    <item>
+      <title>Tool Support for Dynamic Development Processes</title>
+      <link>https://rene.woerzberger.de/publication/toolsupport/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/toolsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Administration Models and Management Tools</title>
+      <link>https://rene.woerzberger.de/publication/administrationmodels/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/administrationmodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive and Reactive Management System for Project Coordination</title>
+      <link>https://rene.woerzberger.de/publication/anadaptive/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/anadaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Process Management Based upon Existing Systems</title>
+      <link>https://rene.woerzberger.de/publication/dynamicprocess/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/dynamicprocess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Management System Supporting Interorganizational Cooperative Development Processes in Chemical Engineering</title>
+      <link>https://rene.woerzberger.de/publication/amanagement/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/amanagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Workflow Definition Language Revisions with Graph-Based Tools</title>
+      <link>https://rene.woerzberger.de/publication/evaluatingworkflow/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/evaluatingworkflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow Support for Inter-organizational Design Processes</title>
+      <link>https://rene.woerzberger.de/publication/workflowsupport/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/workflowsupport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management Support of Interorganizational Cooperative Software Development Processes based on Dynamic Process Views</title>
+      <link>https://rene.woerzberger.de/publication/managementsupport/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/managementsupport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

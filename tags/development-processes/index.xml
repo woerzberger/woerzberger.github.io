@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development processes on Prof. Dr. René Wörzberger</title>
+    <title>development processes | René Wörzberger</title>
     <link>https://rene.woerzberger.de/tags/development-processes/</link>
-    <description>Recent content in development processes on Prof. Dr. René Wörzberger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
-    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rene.woerzberger.de/tags/development-processes/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://rene.woerzberger.de/tags/development-processes/index.xml" rel="self" type="application/rss+xml" />
+    <description>development processes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>development processes</title>
+      <link>https://rene.woerzberger.de/tags/development-processes/</link>
+    </image>
     
     <item>
       <title>Adaptable and Human-Centered Environment for the Administration of Development Processes</title>
       <link>https://rene.woerzberger.de/project/ahead/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/project/ahead/</guid>
       <description></description>
     </item>

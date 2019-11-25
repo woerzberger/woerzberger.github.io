@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manfred Nagl | René Wörzberger</title>
+    <link>https://rene.woerzberger.de/authors/manfred-nagl/</link>
+      <atom:link href="https://rene.woerzberger.de/authors/manfred-nagl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manfred Nagl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Manfred Nagl</title>
+      <link>https://rene.woerzberger.de/authors/manfred-nagl/</link>
+    </image>
+    
+    <item>
+      <title>Administration Models and Management Tools</title>
+      <link>https://rene.woerzberger.de/publication/administrationmodels/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/administrationmodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Process Management Based upon Existing Systems</title>
+      <link>https://rene.woerzberger.de/publication/dynamicprocess/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/dynamicprocess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow Support for Inter-organizational Design Processes</title>
+      <link>https://rene.woerzberger.de/publication/workflowsupport/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication/workflowsupport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

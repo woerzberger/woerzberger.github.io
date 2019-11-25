@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Prof. Dr. René Wörzberger</title>
+    <title>Publication_types | René Wörzberger</title>
     <link>https://rene.woerzberger.de/publication_types/</link>
-    <description>Recent content in Publication_types on Prof. Dr. René Wörzberger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
-    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rene.woerzberger.de/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>1</title>
-      <link>https://rene.woerzberger.de/publication_types/1/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://rene.woerzberger.de/publication_types/1/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://rene.woerzberger.de/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://rene.woerzberger.de/publication_types/</link>
+    </image>
     
     <item>
       <title>2</title>
       <link>https://rene.woerzberger.de/publication_types/2/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication_types/2/</guid>
       <description></description>
     </item>
@@ -34,7 +24,6 @@
       <title>5</title>
       <link>https://rene.woerzberger.de/publication_types/5/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication_types/5/</guid>
       <description></description>
     </item>
@@ -43,8 +32,15 @@
       <title>6</title>
       <link>https://rene.woerzberger.de/publication_types/6/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication_types/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://rene.woerzberger.de/publication_types/1/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://rene.woerzberger.de/publication_types/1/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 on Prof. Dr. René Wörzberger</title>
+    <title>6 | René Wörzberger</title>
     <link>https://rene.woerzberger.de/publication_types/6/</link>
-    <description>Recent content in 6 on Prof. Dr. René Wörzberger</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 René Wörzberger</copyright>
-    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rene.woerzberger.de/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://rene.woerzberger.de/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>6</title>
+      <link>https://rene.woerzberger.de/publication_types/6/</link>
+    </image>
     
     <item>
       <title>Tool Support for Dynamic Development Processes</title>
       <link>https://rene.woerzberger.de/publication/toolsupport/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/toolsupport/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Administration Models and Management Tools</title>
       <link>https://rene.woerzberger.de/publication/administrationmodels/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/administrationmodels/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>An Adaptive and Reactive Management System for Project Coordination</title>
       <link>https://rene.woerzberger.de/publication/anadaptive/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/anadaptive/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Dynamic Process Management Based upon Existing Systems</title>
       <link>https://rene.woerzberger.de/publication/dynamicprocess/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://rene.woerzberger.de/publication/dynamicprocess/</guid>
       <description></description>
     </item>
