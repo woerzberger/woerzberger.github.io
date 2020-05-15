@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rene.woerzberger.de/disclaimers/</loc>
-    <lastmod>2018-11-05T11:12:40+01:00</lastmod>
+    <loc>https://rene.woerzberger.de/authors/</loc>
+    <lastmod>2020-05-14T10:44:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rene.woerzberger.de/tags/education/</loc>
+    <lastmod>2020-05-14T10:44:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rene.woerzberger.de/post/online_studium_in_corona_zeiten/</loc>
+    <lastmod>2020-05-14T10:44:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rene.woerzberger.de/authors/rene-worzberger/</loc>
+    <lastmod>2020-05-14T10:44:23+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://rene.woerzberger.de/</loc>
+    <lastmod>2020-05-14T10:44:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rene.woerzberger.de/tags/</loc>
+    <lastmod>2020-05-14T10:44:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rene.woerzberger.de/disclaimers/</loc>
     <lastmod>2018-11-05T11:12:40+01:00</lastmod>
   </url>
   
@@ -38,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://rene.woerzberger.de/tags/</loc>
-    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rene.woerzberger.de/talk/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -63,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://rene.woerzberger.de/authors/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rene.woerzberger.de/publication/dyproto/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -79,11 +94,6 @@
   
   <url>
     <loc>https://rene.woerzberger.de/publication/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rene.woerzberger.de/authors/rene-worzberger/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   

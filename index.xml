@@ -5,12 +5,21 @@
     <link>https://rene.woerzberger.de/</link>
       <atom:link href="https://rene.woerzberger.de/index.xml" rel="self" type="application/rss+xml" />
     <description>René Wörzberger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Nov 2018 11:12:40 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 10:44:23 +0100</lastBuildDate>
     <image>
       <url>https://rene.woerzberger.de/img/icon-192.png</url>
       <title>René Wörzberger</title>
       <link>https://rene.woerzberger.de/</link>
     </image>
+    
+    <item>
+      <title>Online-Studium in Corona-Zeiten</title>
+      <link>https://rene.woerzberger.de/post/online_studium_in_corona_zeiten/</link>
+      <pubDate>Thu, 14 May 2020 10:44:23 +0100</pubDate>
+      <guid>https://rene.woerzberger.de/post/online_studium_in_corona_zeiten/</guid>
+      <description>&lt;p&gt;We got interviewed by a local magazine about how studying works in times of Corona. Read the &lt;a href=&#34;https://www.kaenguru-online.de/themen/bildung/online-studium-in-corona-zeiten&#34; target=&#34;_blank&#34;&gt;original German article&lt;/a&gt; or a &lt;a href=&#34;https://translate.google.com/translate?hl=de&amp;amp;sl=de&amp;amp;tl=en&amp;amp;u=https%3A%2F%2Fwww.kaenguru-online.de%2Fthemen%2Fbildung%2Fonline-studium-in-corona-zeiten&#34; target=&#34;_blank&#34;&gt;Google Translate powered English translation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Disclaimers</title>
