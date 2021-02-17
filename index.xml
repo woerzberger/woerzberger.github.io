@@ -5,12 +5,21 @@
     <link>https://rene.woerzberger.de/</link>
       <atom:link href="https://rene.woerzberger.de/index.xml" rel="self" type="application/rss+xml" />
     <description>René Wörzberger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 10:44:23 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 10:44:23 +0100</lastBuildDate>
     <image>
       <url>https://rene.woerzberger.de/img/icon-192.png</url>
       <title>René Wörzberger</title>
       <link>https://rene.woerzberger.de/</link>
     </image>
+    
+    <item>
+      <title>Audoora GmbH</title>
+      <link>https://rene.woerzberger.de/post/audoora_01/</link>
+      <pubDate>Wed, 17 Feb 2021 10:44:23 +0100</pubDate>
+      <guid>https://rene.woerzberger.de/post/audoora_01/</guid>
+      <description>&lt;p&gt;Checkout startup &lt;a href=&#34;https://www.audoora.de/&#34;&gt;Audoora GmbH&lt;/a&gt;, which I support as a technical consultant in their advisory board.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>digi hoch 3 - Digitale Lehre</title>
