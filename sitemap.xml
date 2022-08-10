@@ -1,288 +1,174 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://rene.woerzberger.de/post/audoora_01/</loc>
     <lastmod>2021-02-17T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/</loc>
     <lastmod>2021-02-17T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/tags/education/</loc>
     <lastmod>2021-02-17T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/rene-worzberger/</loc>
     <lastmod>2021-02-17T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/</loc>
     <lastmod>2021-02-17T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/tags/</loc>
     <lastmod>2021-02-17T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/post/digi_hoch_drei_digitale_lehre/</loc>
     <lastmod>2020-05-14T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/post/online_studium_in_corona_zeiten/</loc>
     <lastmod>2020-05-14T10:44:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/disclaimers/</loc>
     <lastmod>2018-11-05T11:12:40+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/project/ahead/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/tags/business-processes/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/tags/development-processes/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/project/dyproto/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/project/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://rene.woerzberger.de/talk/example-talk/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rene.woerzberger.de/post/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rene.woerzberger.de/talk/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rene.woerzberger.de/talk/example-talk/</loc>
-    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rene.woerzberger.de/post/</loc>
-    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication_types/2/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/dyproto/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication_types/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/supportformodeling/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/thomas-heer/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication_types/5/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/dissertation/</loc>
     <lastmod>2010-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication_types/6/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/bernhard-westfechtel/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/markus-heller/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/toolsupport/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication_types/1/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/christoph-au%C3%9Fem/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/flexiblemultidimensional/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/addingsupport/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/administrationmodels/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/anadaptive/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/ansgar-schleicher/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/carl-arndt-krapp/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/checkingcorrectness/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/christoph-briem/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/dirk-jager/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/dynamicprocess/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/manfred-nagl/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/nicolas-ehses/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/oncorrectness/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/editingsupport/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/ralf-schneider/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/thomas-kurpick/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/workflowsin/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/amanagement/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/evaluatingworkflow/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/frank-ha%C3%9Fler/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/ri-hai/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/wolfgang-marquardt/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/workflowsupport/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/publication/managementsupport/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rene.woerzberger.de/categories/</loc>
   </url>
-  
 </urlset>
