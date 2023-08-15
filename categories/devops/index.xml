@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devops | René Wörzberger</title>
+    <link>https://rene.woerzberger.de/categories/devops/</link>
+      <atom:link href="https://rene.woerzberger.de/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <description>devops</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Aug 2023 10:44:23 +0100</lastBuildDate>
+    <image>
+      <url>https://rene.woerzberger.de/img/icon-192.png</url>
+      <title>devops</title>
+      <link>https://rene.woerzberger.de/categories/devops/</link>
+    </image>
+    
+    <item>
+      <title>Dev-Metal-Podcast - DevOps - Wo stehen wir heute?</title>
+      <link>https://rene.woerzberger.de/post/devmetal_podcast_devops/</link>
+      <pubDate>Mon, 14 Aug 2023 10:44:23 +0100</pubDate>
+      <guid>https://rene.woerzberger.de/post/devmetal_podcast_devops/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;https://www.dev-insider.de/devops-trends-herausforderungen-dev-metal-podcast-a-2d927dbc117749fd7a788e6de76227b0/&#34;&gt;podcast interview (in German)&lt;/a&gt; about the current state of DevOps with &lt;a href=&#34;https://www.dev-insider.de/autor/stephan-augsten/27321/&#34;&gt;Stefan Augsten&lt;/a&gt; from &lt;a href=&#34;https://www.dev-insider.de/&#34;&gt;Dev-Insider&lt;/a&gt; and &lt;a href=&#34;https://rene.woerzberger.de/&#34;&gt;me&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
