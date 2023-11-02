@@ -1447,9 +1447,8 @@
       
     </div>
     <div class="col-12 col-lg-8">
-      <p>I give/gave diverse lectures and lab courses at Technische Hochschule Köln dealing with software architectures, software engineering and cloud computing.</p>
-<p>including topics like</p>
-<p><a href="https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/MaTIN2012_LCSS.html"><strong>Large and Cloud-based Software Systemes</strong></a> in <a href="https://th-koeln.de/matin">Computer Science &amp; Engineering (Master&rsquo;s program)</a> including topics like</p>
+      <p>I give/gave diverse courses at Technische Hochschule Köln dealing with distributed systems architectures, software engineering and cloud computing.</p>
+<p><a href="https://f07-studieninfo.web.th-koeln.de/f07wiki/bin/view/F07_Studium/MaTIN2012_LCSS.html"><strong>Large and Cloud-based Software Systemes</strong></a> in <a href="https://th-koeln.de/matin">Computer Science &amp; Engineering (Master&rsquo;s program)</a> has its own <a href="https://gitlab.com/rwoerzbe/public/-/raw/main/LCSS_Lecture_Notes.pdf?ref_type=heads">Lecture Notes</a> and includes topics like</p>
 <ul>
 <li><em>Software Systems</em>: definition and some basic terms
 <ul>
@@ -1460,7 +1459,7 @@
 <ul>
 <li><em>Performance</em>: What makes my system slow? What workload do I have to deal with? Why is often latency a bigger problem than throughput? Why is it bad idea to fully utilize my system? How can I scale my system?</li>
 <li><em>Dependability</em>: How can I increase my system’s availability? How can I make my system resilient to faults? Why do I have to trade availability for consistency and vice versa?</li>
-<li><em>Quality Attribute Maintainability</em>: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?</li>
+<li><em>Maintainability</em>: What is maintainability? What fundamental cognitive mechanism drive the perception of a code base’s maintainability?</li>
 <li><em>Security</em>: How can I describe security properties? What are the aspects of security? What are common threats for (web based) systems?</li>
 </ul>
 </li>
@@ -1472,9 +1471,11 @@
 <li><em>Patterns</em>: What do we conceive as a pattern in system architecture?</li>
 <li><em>Decomposition</em>: How can I break down my system into smaller parts, how should I do the &ldquo;cuts&rdquo;?</li>
 <li><em>Monolithic Systems</em>: How can I embody architecture in single (monolithic) programs, e.g., using layers or hexagonal architectures? What are the downsides of monoliths?</li>
-<li><em>Scaling</em>: How can I lower response times and increase availabilty with horizontal scaling? What patterns do we have for scaling?</li>
+<li><em>Scaling</em>: How can I lower response times and increase availabilty with horizontal scaling? What patterns do we have for scaling? How do we allocate processes to computing resources.</li>
+<li><em>Load Balancing</em>: How do we distribute workload among processes of the same kind to improve thoroughput and availability=</li>
 <li><em>Distributed Systems</em>: How can I distribute a system into several programs, e.g., in a Microservice fashion. What are downsides of distribution? What are strategies for redeployment in distributed systems.</li>
 <li><em>Communication</em>: What are the basic patterns of communications in distributed systems?</li>
+<li><em>Caching</em>: How should we store copies of data closed to its consumers to lower latency?</li>
 <li><em>Modelling</em>: How can I communicate my thoughs about systems in models using modeling languages like UML?</li>
 </ul>
 </li>
@@ -2211,153 +2212,6 @@
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="contact" class="home-section wg-contact   "  >
-    <div class="container">
-      
-
-
-
-
-
-<div class="row contact-widget">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Contact</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-    
-
-    
-
-    
-    
-      
-      
-    
-
-    <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/rene@woerzberger.de">
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputName">Name</label>
-          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
-        </div>
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputEmail">Email</label>
-          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
-        </div>
-        <div class="form-group">
-          <label class="sr-only" for="inputMessage">Message</label>
-          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
-        </div>
-        <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
-      </form>
-    </div>
-    
-
-    <ul class="fa-ul">
-
-      
-
-      
-
-      
-      
-        
-        <li>
-          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">Betzdorfer Str. 2, 50679 Köln (Cologne)</span>
-        </li>
-      
-
-      
-      <li>
-        <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-        <span>room ZN-06-07 (6th floor, heading north)</span>
-      </li>
-      
-
-      
-      <li>
-        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-        <span>Tuesday 14:45 to 15:45</span>
-      </li>
-      
-
-      
-
-      
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      <li>
-        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-        <a href="skype:woerzberger?call" >Skype</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fab fa-whatsapp fa-2x" aria-hidden="true"></i>
-        <a href="https://wa.me/4922182754324" target="_blank" rel="noopener">WhatsApp</a>
-      </li>
-      
-
-    </ul>
-
     
 
   </div>
